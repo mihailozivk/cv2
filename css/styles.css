@@ -1,0 +1,111 @@
+body {
+  margin: 0px;
+  font-family: 'Bitter', serif;
+  text-align: center;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color: #563a2b;
+}
+h2{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2.5rem;
+  color: #563a2b;
+  margin-top: 0px;
+
+}
+h3{
+  font-family: 'Tilt Neon', sans-serif;
+  color: #0A0A0A;
+
+}
+p {
+  font-weight: bolder;
+}
+hr{
+  width: 10%;
+  border-width: 7px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #70513c;
+
+}
+.top-container {
+  background-color: #B9F3FC;
+  position: relative;
+  padding-top: 100px;
+  margin: 0 auto;
+}
+.planina {
+  position: relative;
+  top:37px;
+}
+.middle-container {
+  padding: 50px;
+background-color: #8dc523
+}
+
+.bottom-container {
+padding: 5px 0 5px 0;
+background-color: #70513d;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.gornji-oblak {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 200px;
+  height: 200px;
+
+}
+
+.donji-oblak {
+  position: absolute;
+  left: 300px;
+  bottom: 280px;
+  width: 300px;
+  height: 300px;
+}
+.munja {
+  position: absolute;
+  left:380px;
+  bottom: 140px;
+  transform: rotate(180deg);
+  height: 300px;
+}
+.footer-link{
+  color: white;
+}
+.h2-normal{
+  font-weight:normal;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skills-img{
+  width: 25%;
+float: left;
+}
+.painting-img{
+  width: 25%;
+  float: right;
+}
+.btn{
+font-weight: bold;
+}
+.profile{
+  padding-bottom: 50px;
+}
+.contact-me{
+  padding-top: 50px;
+}
